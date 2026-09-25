@@ -1,5 +1,4 @@
-#!/bin/bash
- -e
+#!/bin/bash -e
 
 VERSION="7.20.7"
 echo "VERSION : $VERSION"
